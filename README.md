@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **sharpening my DSA Skills**
 
-- 🌱 I’m currently learning **Deep Learning (Tensorflow)**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PranjalMantri](https://github.com/PranjalMantri)
 
