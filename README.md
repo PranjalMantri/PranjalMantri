@@ -9,7 +9,6 @@
 
 ---
 
-- 🔭 I’m currently working on **AI Podcast Clipper**
 - 🌱 Exploring ML, web development, and open source
 - 💡 Passionate about building tools that solve real-world problems
 - 📫 Reach me at **pranjalmantri@gmail.com**
